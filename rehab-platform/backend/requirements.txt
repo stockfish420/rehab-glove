@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pyserial
+opencv-python
+mediapipe
+numpy
+ollama
+pydantic

@@ -1,0 +1,3 @@
+cd C:\Users\cheta\OneDrive\Desktop\final-final-grand-iot\rehab-platform
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+.\start.ps1 -SerialPort COM3
